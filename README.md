@@ -1,47 +1,60 @@
-# Olá! Eu sou Eduardo Mateus Silva 👋
+# Hi there! 👋 I'm Eduardo Mateus Silva
 
-Desenvolvedor .NET em início de carreira.
+### .NET Full Stack Developer
 
-Atualmente desenvolvendo aplicações web utilizando C#, ASP.NET Core MVC, Entity Framework Core e SQL Server.
+I graduated in Systems Development from SENAI in 2024 and I'm currently building real-world web applications using the .NET ecosystem.
 
-Meu objetivo é construir soluções que resolvam problemas reais, evoluir constantemente como desenvolvedor e conquistar minha primeira oportunidade na área de tecnologia.
+I'm focused on developing scalable and maintainable applications with C#, ASP.NET Core MVC, Entity Framework Core, and SQL Server while continuously improving my software engineering skills.
 
 ---
 
-## 🚀 Tecnologias
+## 🚀 Tech Stack
 
 - C#
 - .NET
 - ASP.NET Core MVC
 - Entity Framework Core
 - SQL Server
-- HTML
-- CSS
+- HTML5
+- CSS3
 - JavaScript
 - Git
 - GitHub
 
 ---
 
-## 📌 Projeto Principal
+## 💼 Featured Project
 
-### Sistema de Controle de EPIs
+### PPE Management System
 
-Sistema desenvolvido em ASP.NET Core MVC para gerenciamento de Equipamentos de Proteção Individual.
+A web application built with ASP.NET Core MVC for managing Personal Protective Equipment (PPE).
 
-Funcionalidades:
+### Features
 
-- Login com Identity
-- Controle de usuários
-- Controle de estoque
-- Cadastro de colaboradores
-- Empréstimos
-- Controle de devoluções
+- User Authentication with ASP.NET Identity
+- Role-Based Access Control
+- Employee Management
+- PPE Registration
+- Inventory Management
+- Equipment Loan & Return
+- Business Rules Implementation
 
 ---
 
-## 📫 Contato
+## 🎯 Current Goals
 
-LinkedIn: www.linkedin.com/in/eduardomateussilva
+- Improve my .NET development skills
+- Build production-like applications
+- Learn REST APIs
+- Learn Docker
+- Learn Azure
+- Contribute to Open Source
+- Get my first opportunity as a .NET Developer
 
-Email: eduardomateussilva48@gmail.com
+---
+
+## 📫 Contact
+
+- LinkedIn: www.linkedin.com/in/eduardomateussilva
+
+- Email: eduardomateussilva48@gmail.com
