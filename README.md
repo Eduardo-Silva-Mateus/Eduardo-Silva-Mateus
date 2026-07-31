@@ -1,16 +1,47 @@
-## Hi there 👋
+# Olá! Eu sou Eduardo Mateus Silva 👋
 
-<!--
-**Eduardo-Silva-Mateus/Eduardo-Silva-Mateus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor .NET em início de carreira.
 
-Here are some ideas to get you started:
+Atualmente desenvolvendo aplicações web utilizando C#, ASP.NET Core MVC, Entity Framework Core e SQL Server.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu objetivo é construir soluções que resolvam problemas reais, evoluir constantemente como desenvolvedor e conquistar minha primeira oportunidade na área de tecnologia.
+
+---
+
+## 🚀 Tecnologias
+
+- C#
+- .NET
+- ASP.NET Core MVC
+- Entity Framework Core
+- SQL Server
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+
+---
+
+## 📌 Projeto Principal
+
+### Sistema de Controle de EPIs
+
+Sistema desenvolvido em ASP.NET Core MVC para gerenciamento de Equipamentos de Proteção Individual.
+
+Funcionalidades:
+
+- Login com Identity
+- Controle de usuários
+- Controle de estoque
+- Cadastro de colaboradores
+- Empréstimos
+- Controle de devoluções
+
+---
+
+## 📫 Contato
+
+LinkedIn: www.linkedin.com/in/eduardomateussilva
+
+Email: eduardomateussilva48@gmail.com
