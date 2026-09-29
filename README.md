@@ -1,60 +1,43 @@
-# Hi there! 👋 I'm Eduardo Mateus Silva
+# Hi, I'm Eduardo Mateus Silva 👋
 
-### .NET Full Stack Developer
+### Java Developer | Java • Spring Boot • SQL
 
-I graduated in Systems Development from SENAI in 2024 and I'm currently building real-world web applications using the .NET ecosystem.
+I'm a Systems Development Technician graduated from SENAI in 2024, currently focusing on backend development with Java.
 
-I'm focused on developing scalable and maintainable applications with C#, ASP.NET Core MVC, Entity Framework Core, and SQL Server while continuously improving my software engineering skills.
+I enjoy learning software development, solving problems, and building practical applications.
 
----
+## 🚀 About Me
 
-## 🚀 Tech Stack
+- 🎓 Systems Development Technician — SENAI (2024)
+- ☕ Focused on Java backend development
+- 🌱 Currently improving my skills in Java, Spring Boot, and SQL
+- 📍 Blumenau, Santa Catarina, Brazil
+- 🎯 Looking for my first opportunity as a Java Developer Intern or Junior Developer
 
-- C#
-- .NET
-- ASP.NET Core MVC
-- Entity Framework Core
-- SQL Server
-- HTML5
-- CSS3
-- JavaScript
-- Git
-- GitHub
+## 🛠️ Technologies & Tools
 
----
+- **Languages:** Java, JavaScript, SQL
+- **Backend:** Spring Boot, Spring Web, Spring Data JPA, Hibernate
+- **Databases:** MariaDB, MySQL
+- **Web:** HTML, CSS, Thymeleaf, Bootstrap
+- **Tools:** Git, GitHub, Maven
 
-## 💼 Featured Project
+## 📌 Featured Project
 
-### PPE Management System
+### [Controle de EPIs](https://github.com/Eduardo-Silva-Mateus/Controle-de-Epis)
 
-A web application built with ASP.NET Core MVC for managing Personal Protective Equipment (PPE).
+A web application developed as my final course project at SENAI to manage Personal Protective Equipment (PPE).
 
-### Features
+**Main features:**
+- Employee and user management
+- PPE registration and inventory management
+- Equipment loans and returns
+- Data persistence and validation
 
-- User Authentication with ASP.NET Identity
-- Role-Based Access Control
-- Employee Management
-- PPE Registration
-- Inventory Management
-- Equipment Loan & Return
-- Business Rules Implementation
-
----
-
-## 🎯 Current Goals
-
-- Improve my .NET development skills
-- Build production-like applications
-- Learn REST APIs
-- Learn Docker
-- Learn Azure
-- Contribute to Open Source
-- Get my first opportunity as a .NET Developer
-
----
+**Technologies:** Java 17, Spring Boot, Spring Data JPA, Hibernate, MariaDB, Thymeleaf, Maven, HTML, CSS, and Bootstrap.
 
 ## 📫 Contact
 
-- LinkedIn: www.linkedin.com/in/eduardomateussilva
-
-- Email: eduardomateussilva48@gmail.com
+- **LinkedIn:** [Eduardo Mateus da Silva](https://www.linkedin.com/in/eduardomateussilva)
+- **Email:** eduardomateus.silva23@gmail.com
+- **GitHub:** [Eduardo-Silva-Mateus](https://github.com/Eduardo-Silva-Mateus)
