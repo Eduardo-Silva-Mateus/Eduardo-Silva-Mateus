@@ -39,5 +39,5 @@ A web application developed as my final course project at SENAI to manage Person
 ## 📫 Contact
 
 - **LinkedIn:** [Eduardo Mateus da Silva](https://www.linkedin.com/in/eduardomateussilva)
-- **Email:** eduardomateus.silva23@gmail.com
+- **Email:** [eduardomateus.silva23@gmail.com](mailto:eduardomateus.silva23@gmail.com)
 - **GitHub:** [Eduardo-Silva-Mateus](https://github.com/Eduardo-Silva-Mateus)
