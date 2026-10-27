@@ -9,11 +9,10 @@ I'm continuously improving my skills through hands-on projects and looking for m
 ## 🚀 About Me
 
 - 🎓 Systems Development Technician — SENAI (2024)
-- ☕ Focused on Java backend development and REST APIs
-- 🌱 Learning and building projects with Spring Boot, Spring Data JPA, and Angular
-- 🗄️ Working with relational databases such as MariaDB and MySQL
+- ☕ Focused on backend development with Java and REST APIs
+- 🌱 Building practical projects with Spring Boot, Spring Data JPA, and Angular
+- 🗄️ Working with relational databases, including MariaDB and MySQL
 - 📍 Blumenau, Santa Catarina, Brazil
-- 🎯 Seeking my first opportunity as a Junior Java Developer
 
 ## 🛠️ Technologies & Tools
 
